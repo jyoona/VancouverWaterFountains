@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\users\sk333_000\documents\visual studio 2013\projects\vancouverwaterfountains\packages\google.apis.auth.1.9.0\lib\netcore45\google.apis.auth.dll" HashGuid="04c9bafe-dbbf-bf32-cd3f-4d572f37e3c1" />
+    <ReferenceAssembly PathName="c:\users\sk333_000\documents\visual studio 2013\projects\vancouverwaterfountains\packages\google.apis.auth.1.9.0\lib\netcore45\google.apis.auth.platformservices.dll" HashGuid="4f8fde0a-c1c9-6151-8119-9d76ab040ff4" />
+    <ReferenceAssembly PathName="c:\users\sk333_000\documents\visual studio 2013\projects\vancouverwaterfountains\packages\google.apis.core.1.9.0\lib\portable-net40+sl50+win+wpa81+wp80\google.apis.core.dll" HashGuid="f5555c07-bb80-6148-3ac1-34df2e0bee65" />
+    <ReferenceAssembly PathName="c:\users\sk333_000\documents\visual studio 2013\projects\vancouverwaterfountains\packages\google.apis.1.9.0\lib\netcore45\google.apis.dll" HashGuid="eee5f1a0-473f-ecd5-d165-8d1d5fa2631a" />
+    <ReferenceAssembly PathName="c:\users\sk333_000\documents\visual studio 2013\projects\vancouverwaterfountains\packages\google.apis.drive.v2.1.9.0.1510\lib\portable-net40+sl50+win+wpa81+wp80\google.apis.drive.v2.dll" HashGuid="60f1131d-732d-2525-934f-6a5e6a4a9385" />
+    <ReferenceAssembly PathName="c:\users\sk333_000\documents\visual studio 2013\projects\vancouverwaterfountains\packages\google.apis.mapsengine.exp2.1.9.0.210\lib\portable-net40+sl50+win+wpa81+wp80\google.apis.mapsengine.exp2.dll" HashGuid="a747a830-2685-4eb5-bdf9-0f25b0ee4751" />
+    <ReferenceAssembly PathName="c:\users\sk333_000\documents\visual studio 2013\projects\vancouverwaterfountains\packages\google.apis.1.9.0\lib\netcore45\google.apis.platformservices.dll" HashGuid="e9056043-33a3-30d3-2bee-ad37fe3ea533" />
+    <ReferenceAssembly PathName="c:\users\sk333_000\documents\visual studio 2013\projects\vancouverwaterfountains\packages\microsoft.bcl.async.1.0.168\lib\win8\microsoft.threading.tasks.dll" HashGuid="3a1beea5-1547-d5c6-af32-3b5c761c2a6a" />
+    <ReferenceAssembly PathName="c:\users\sk333_000\documents\visual studio 2013\projects\vancouverwaterfountains\packages\microsoft.bcl.async.1.0.168\lib\win8\microsoft.threading.tasks.extensions.dll" HashGuid="79a01987-c06c-c9d7-37eb-629809787680" />
+    <ReferenceAssembly PathName="c:\users\sk333_000\documents\visual studio 2013\projects\vancouverwaterfountains\packages\newtonsoft.json.6.0.4\lib\netcore45\newtonsoft.json.dll" HashGuid="21d6fdf9-5b56-582d-4524-cf342594819a" />
+    <ReferenceAssembly PathName="c:\users\sk333_000\documents\visual studio 2013\projects\vancouverwaterfountains\packages\microsoft.net.http.2.2.22\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\sk333_000\documents\visual studio 2013\projects\vancouverwaterfountains\packages\microsoft.net.http.2.2.22\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\sk333_000\documents\visual studio 2013\projects\vancouverwaterfountains\packages\zlib.portable.1.10.0\lib\portable-net4+sl5+wp8+win8+wpa81+monotouch+monoandroid\zlib.portable.dll" HashGuid="c2e720fb-e50f-2f36-7080-d54c89253f2a" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
